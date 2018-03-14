@@ -106,7 +106,7 @@ a:visited {
 
 .student-card {
   position: relative;
- background-image: url("https://learn-verified.s3.amazonaws.com/profile-photo-placeholder.png");
+ /*background-image: url("https://learn-verified.s3.amazonaws.com/profile-photo-placeholder.png");*/
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -169,7 +169,7 @@ div#spyros-b-cover {
 
 #spyros-b-card {
   background-color: #1976d2;
-  background-image: url("https://i.imgur.com/hRGLBRO.png");
+  /*background-image: url("https://i.imgur.com/hRGLBRO.png");*/
 }
 
 .view-profile-div {
