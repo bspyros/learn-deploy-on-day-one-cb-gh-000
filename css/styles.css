@@ -254,7 +254,7 @@ div#spyros-b-cover {
 }
 
 .profile-photo {
- background-image: url("https://learn-verified.s3.amazonaws.com/profile-photo-placeholder.png");
+ /*background-image: url("https://learn-verified.s3.amazonaws.com/profile-photo-placeholder.png");*/
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
